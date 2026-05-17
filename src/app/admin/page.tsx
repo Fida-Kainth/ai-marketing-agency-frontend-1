@@ -20,7 +20,9 @@ import {
   Clock,
   TrendingUp,
   TrendingDown
-} from 'lucide-react';
+} 
+//code icons from lucide-react
+from 'lucide-react';
 
 interface User {
   id: string;
