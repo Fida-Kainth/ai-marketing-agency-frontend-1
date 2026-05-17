@@ -12,7 +12,9 @@ Modern, responsive frontend application built with Next.js 14 for the AI Marketi
   - Image generation with DALL-E
   - SEO optimization suggestions
   - Chatbot builder
-- **Campaign Management**: Create, edit, and track marketing campaigns
+  - values are assigned. 
+- **Campaign Management**: Create, edit, and track 
+marketing campaigns
 - **Social Media**: Schedule and automate posts
 - **Analytics**: Real-time performance metrics
 - **Client Management**: Organize and manage clients
@@ -389,3 +391,6 @@ For support, email aimarketingagencyhelp@gmail.com or create an issue in the rep
   - Dashboard and campaign management
   - AI tools integration
   - Responsive design
+#   A I - m a r k e t i n g - c h e c k 
+ 
+ 
