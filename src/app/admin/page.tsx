@@ -43,6 +43,7 @@ interface User {
     chatbots: number;
     invoices: number;
   };
+  //values from PostgreSQL users table
 }
 
 interface SystemAnalytics {
@@ -68,6 +69,7 @@ interface SystemAnalytics {
     month: string;
     count: number;
   }>;
+  
 }
 
 export default function AdminPage() {
